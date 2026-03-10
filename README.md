@@ -21,7 +21,7 @@
 
 ### Тестирование
 
-![](https://github.com/Pank-cake/Lab_2/blob/main/Test/Test1.PNG)
+![](https://github.com/Pank-cake/Lab_3/blob/main/Test/Test1.PNG)
 
 
 # Задание 2. Seq.fold
@@ -45,7 +45,7 @@
 
 ### Тестирование
 
-![](https://github.com/Pank-cake/Lab_2/blob/main/Test/Test2.PNG)
+![](https://github.com/Pank-cake/Lab_3/blob/main/Test/Test2.PNG)
 
 
 # Задание 3. Решить с использованием последовательности задачу на обработку файлов/каталогов
@@ -68,5 +68,5 @@
 
 ### Тестирование
 
-![](https://github.com/Pank-cake/Lab_2/blob/main/Test/Test2.PNG)
+![](https://github.com/Pank-cake/Lab_3/blob/main/Test/Test3.PNG)
 

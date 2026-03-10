@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gPaKms9oPLc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Надежда\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Надежда\\.nuget\\packages\\fsharp.core\\9.0.300\\fsharp.core.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
